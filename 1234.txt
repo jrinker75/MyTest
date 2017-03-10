@@ -6,6 +6,7 @@ Gender	string
 Zip	string
 State	string
 LGA	decimal
+NTF	date
 Age	int
 DOB	date
 Overlay	string
